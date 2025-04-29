@@ -30,7 +30,7 @@ Flower_Classification_CNN/
 -Image Classification: Script to classify new images using the trained model.
 
 ## Dataset
-The famous kaggle flower dataset is used. The dataset comprises images of 5 flower species, organized into separate folders for each class. Ensure that the Images/ directory contains subdirectories for each flower category, each populated with corresponding images.
+The famous kaggle flower dataset is used. The dataset contains nearly 4000 images of 5 flower species, organized into separate folders for each class. Ensure that the Images/ directory contains subdirectories for each flower category, each populated with corresponding images.
 
 ## Installation
 For only using the model python environment should be setup on your systems as the requirements.txt only contains the modules specifically needed for this project.
