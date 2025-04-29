@@ -3,12 +3,19 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 
 ## Project Structure
 Flower_Classification_CNN/
+
 ├── Flower_Classification.ipynb      # Jupyter Notebook for model training and evaluation
+
 ├── Using_Model_To_Classify.py       # Script to load the trained model and classify new images
+
 ├── Flower_Class_Model.keras         # Saved Keras model
+
 ├── requirements.txt                 # List of required Python packages
+
 ├── sample/                          # Directory containing sample images
+
 ├── Images/                          # Directory containing training images
+
 └── README.md                        # Project documentation
 
 ## Features
