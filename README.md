@@ -21,15 +21,11 @@ Flower_Classification_CNN/
 
 ---
 ## Features
--Data Preprocessing: Efficient loading and preprocessing of image data using Keras utilities.
-
--Model Architecture: Custom CNN built with TensorFlow and Keras layers.
-
--Training & Evaluation: Model trained on a dataset of flower images with performance evaluation.
-
--Model Saving: Trained model saved in .keras format for future use.
-
--Image Classification: Script to classify new images using the trained model.
+- Data Preprocessing: Efficient loading and preprocessing of image data using Keras utilities.
+- Model Architecture: Custom CNN built with TensorFlow and Keras layers.
+- Training & Evaluation: Model trained on a dataset of flower images with performance evaluation.
+- Model Saving: Trained model saved in .keras format for future use.
+- Image Classification: Script to classify new images using the trained model.
 
 ---
 ## Dataset
