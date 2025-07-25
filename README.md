@@ -1,6 +1,7 @@
 # Flower Classification using CNN
 This project implements a Convolutional Neural Network (CNN) to classify images of flowers into 5 distinct categories. Utilizing TensorFlow and Keras, the model is trained to recognize these 5 flower species- Daisy, Dandelion, Rose, Sunflower and Tulip.
 
+---
 ## Project Structure
 Flower_Classification_CNN/
 
@@ -18,6 +19,7 @@ Flower_Classification_CNN/
 
 └── README.md                        # Project documentation
 
+---
 ## Features
 -Data Preprocessing: Efficient loading and preprocessing of image data using Keras utilities.
 
@@ -29,9 +31,11 @@ Flower_Classification_CNN/
 
 -Image Classification: Script to classify new images using the trained model.
 
+---
 ## Dataset
 The famous kaggle flower dataset is used. The dataset contains nearly 4000 images of 5 flower species, organized into separate folders for each class. Ensure that the Images/ directory contains subdirectories for each flower category, each populated with corresponding images.
 
+---
 ## Installation
 For only using the model python environment should be setup on your systems as the requirements.txt only contains the modules specifically needed for this project.
 
@@ -48,6 +52,7 @@ For only using the model python environment should be setup on your systems as t
   
   To access jupyter notebook file: setup jupyter environment on your system
 
+---
 ## Usage
 
 ### 1. Train the Model
@@ -64,6 +69,7 @@ For only using the model python environment should be setup on your systems as t
   
   python Using_Model_To_Classify.py
 
+---
 ## Reference
 ### 1. TensorFlow Official Tutorial – Image Classification
 
